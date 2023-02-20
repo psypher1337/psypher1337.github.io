@@ -1,6 +1,6 @@
 ---
 title: Ce este ideologia? O analiză amănunțită.
-date: 2023-02-19 06:00:00 -4000
+date: 2023-02-15 06:00:00 -4000
 categories: [Spiritualitate, Informatii fundamentale]
 tags: [ideologie, dogma, spiritualitate, fundamental]
 comments: true
